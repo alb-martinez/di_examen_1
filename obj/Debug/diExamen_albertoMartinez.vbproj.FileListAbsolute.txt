@@ -1,0 +1,16 @@
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.vbprojAssemblyReference.cache
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.Form1.resources
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.Form2.resources
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.Resources.resources
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.vbproj.GenerateResource.cache
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.vbproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\bin\Debug\diExamen_albertoMartinez.exe.config
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\bin\Debug\diExamen_albertoMartinez.exe
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\bin\Debug\diExamen_albertoMartinez.pdb
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\bin\Debug\diExamen_albertoMartinez.xml
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.Form3.resources
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.exe
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.xml
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.pdb
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.Form4.resources
+C:\Users\Alberto\source\repos\diExamen_albertoMartinez\obj\Debug\diExamen_albertoMartinez.Form5.resources

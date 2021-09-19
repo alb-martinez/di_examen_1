@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+diExamen_albertoMartinez
+</name>
+</assembly>
+<members>
+<member name="T:diExamen_albertoMartinez.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:diExamen_albertoMartinez.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:diExamen_albertoMartinez.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.crearLabelPalabra">
+ <summary>
+ Metodo para crear los guiones donde se iran mostrando los aciertos
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.seleccionarPalabra">
+ <summary>
+ Metodo para seleccionar aleatoriamente la palabra a jugar.
+ </summary>
+ <returns>
+ Retorna la palabra seleccionada por su indice, desde el numero aleatorio
+ </returns>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.crearBotonesTeclado">
+ <summary>
+ Metodo para crear en tiempo de ejecución los botones de las letras
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.deshabilitarBotonesTeclado">
+ <summary>
+ Metodo para deshabilitar los botones de las letras uno a uno
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.Button_Click(System.Object,System.EventArgs)">
+ <summary>
+ Metodo del evento click sobre cualquiera de las letras del teclado
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.comprobarPalabra">
+ <summary>
+ Metodo para comprobar si se ha terminado de descubrir toda la palabra
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.iniciarPartida">
+ <summary>
+ Metodo para empezar una partida nueva, con las variables reseteadas
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.activarPista">
+ <summary>
+ Metodo para activar el pictureBox de la pista, a los 5 intentos
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.PbPista_Click(System.Object,System.EventArgs)">
+ <summary>
+ Metodo para el evento click del pictureBox de pista
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:diExamen_albertoMartinez.Form1.AcercaDeToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Eventos click del menu strip
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form2.comprobarCantidadPalabras">
+ <summary>
+ Metodo para comprobar cuantas palabras hay en la lista
+ </summary>
+</member>
+<member name="M:diExamen_albertoMartinez.Form2.btOrdenar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Metodo para el evento click de boton ordenar y su inversa
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:diExamen_albertoMartinez.Form2.btBorrar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Metodo para el evento click del boton borrar palabra
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:diExamen_albertoMartinez.Form2.btAdd_Click(System.Object,System.EventArgs)">
+ <summary>
+ Metodo para el evento click del boton añadir palabra
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:diExamen_albertoMartinez.Form2.comprobarDuplicada(System.String@)">
+ <summary>
+ Metodo para comprobar si la palabra nueva introducida ya existe en la lista
+ </summary>
+ <param name="palabra"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>
